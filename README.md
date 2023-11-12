@@ -1,1 +1,1 @@
-This was originally for a final project for INFO 2950.
+This was originally for a final project for INFO 2950 in Fall 2022. Using python and the pandas, SciKit, and FastF1 libraries I performed linear and multinomial logistic regressions to examine whether the 2022 Formula 1 regulation changes had led to an increase in competitiveness as they had hoped to.
